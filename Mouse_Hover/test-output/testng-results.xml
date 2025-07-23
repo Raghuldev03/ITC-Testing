@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-23T09:06:15 UTC" name="Suite" finished-at="2025-07-23T09:06:20 UTC" duration-ms="5029">
+    <groups>
+    </groups>
+    <test started-at="2025-07-23T09:06:15 UTC" name="Test" finished-at="2025-07-23T09:06:20 UTC" duration-ms="5029">
+      <class name="hover.googletest">
+        <test-method is-config="true" signature="setupReport()[pri:0, instance:hover.googletest@7714e963]" started-at="2025-07-23T09:06:14 UTC" name="setupReport" finished-at="2025-07-23T09:06:15 UTC" duration-ms="482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:hover.googletest@7714e963]" started-at="2025-07-23T09:06:15 UTC" name="setup" finished-at="2025-07-23T09:06:18 UTC" duration-ms="3355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="openGoogleTest()[pri:0, instance:hover.googletest@7714e963]" started-at="2025-07-23T09:06:18 UTC" name="openGoogleTest" finished-at="2025-07-23T09:06:19 UTC" duration-ms="1332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:hover.googletest@7714e963]" started-at="2025-07-23T09:06:19 UTC" name="tearDown" finished-at="2025-07-23T09:06:20 UTC" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDownReport()[pri:0, instance:hover.googletest@7714e963]" started-at="2025-07-23T09:06:20 UTC" name="tearDownReport" finished-at="2025-07-23T09:06:20 UTC" duration-ms="650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownReport -->
+      </class> <!-- hover.googletest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
