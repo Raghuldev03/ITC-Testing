@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-22T04:43:52 UTC" name="Surefire suite" finished-at="2025-07-22T04:43:52 UTC" duration-ms="342">
+    <groups>
+    </groups>
+    <test started-at="2025-07-22T04:43:52 UTC" name="Surefire test" finished-at="2025-07-22T04:43:52 UTC" duration-ms="342">
+      <class name="Jacoco.RectangleTest">
+        <test-method signature="testarea()" started-at="2025-07-22T04:43:52 UTC" name="testarea" finished-at="2025-07-22T04:43:52 UTC" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testarea -->
+        <test-method signature="testperimeter()" started-at="2025-07-22T04:43:52 UTC" name="testperimeter" finished-at="2025-07-22T04:43:52 UTC" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testperimeter -->
+      </class> <!-- Jacoco.RectangleTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
